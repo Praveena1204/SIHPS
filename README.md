@@ -20,8 +20,10 @@ Government of Gujarat
 8. Mobile Access: A mobile app or responsive site for on-the-go access.
 
 ## Proposed Solution / Architecture Diagram
+
 ![diagram 1](https://github.com/user-attachments/assets/2bffe9ab-ea76-4f23-be92-497c78a201b1)
 ## Use Cases
+
 ![sih new ss](https://github.com/user-attachments/assets/c5d6f509-a1b1-41fe-a71f-314867c06c57)
 ## Technology Stack
 1. React/Angular (frontend)
