@@ -21,16 +21,13 @@ Government of Gujarat
 
 ## Proposed Solution / Architecture Diagram
 ![diagram 1](https://github.com/user-attachments/assets/2bffe9ab-ea76-4f23-be92-497c78a201b1)
-
 ## Use Cases
 ![sih new ss](https://github.com/user-attachments/assets/c5d6f509-a1b1-41fe-a71f-314867c06c57)
-
 ## Technology Stack
 1. React/Angular (frontend)
 2. Node.js/Python (backend)
 3. PostgreSQL/MongoDB (database)
 4. Firebase (notifications).
-
 ## Dependencies
 1. Frontend: React/Angular, Axios for API calls, Material-UI for styling, Firebase forauthentication, and Chart.js for data visualization.
 2. Backend: Node.js/Express or Django, MongoDB/PostgreSQL for data storage,JWT/OAuth for authentication, and Socket.io for real-time features.
